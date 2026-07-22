@@ -1,7 +1,7 @@
 # WorkSquares CRM — Issue Tracker
 
 Public issue tracker for **WorkSquares CRM**, a customer relationship management suite — leads, contacts, accounts, deals, activities, workflows, and reporting — available on Web and Android.
-**Live app:** https://crm.worksquares.ai
+**Live app:** https://crm.worksquares.ai · **API:** https://crm-api.worksquares.ai · **Docs:** https://docs.worksquares.ai
 
 > **This repository is for issue tracking only.** It contains no source code — WorkSquares CRM is a closed-source product. Pull requests cannot be accepted here.
 
